@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Nagorik</string>
+    <string name="login">Login</string>
+    <string name="pass">Enter The Password</string>
+    <string name="phone">Enter The Phone Number</string>
+    <string name="newAcc">Create New Account</string>
+    <string name="or">Or Sign In With</string>
 </resources>
